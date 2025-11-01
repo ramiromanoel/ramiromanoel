@@ -2,8 +2,7 @@
 
 **Data Analyst | DAX | SQL | Python**  
 
-Transformo dados em decisões estratégicas. Trabalho com todo o ciclo de dados, do **ETL à visualização**, criando soluções que conectam **técnica, negócio e estratégia**.  
-Sou movido por curiosidade, aprendizado contínuo e por gerar impacto real através da análise de dados.  
+Transformo dados em decisões estratégicas. Trabalho com todo o ciclo de dados, do **ETL à visualização**, criando soluções que conectam **técnica, negócio e estratégia**.  Sou movido por curiosidade, aprendizado contínuo e por gerar impacto real através da análise de dados.  
 
 ---
 
@@ -17,15 +16,6 @@ Sou movido por curiosidade, aprendizado contínuo e por gerar impacto real atrav
 ![Pentaho](https://img.shields.io/badge/Pentaho-007396?style=for-the-badge&logo=pentaho&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-0099F7?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Modelagem de Dados](https://img.shields.io/badge/Modelagem%20de%20Dados-6C3483?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAIAAAACUFjqAAAADklEQVQYV2NkYGD4DwABBAEAQ0EF+gAAAABJRU5ErkJggg==)
-
-
----
-
-### 🎯 Interesses
-📈 Transformar **dados em insights acionáveis**  
-⚙️ **Automatizar processos** e reduzir esforço operacional  
-🧠 Criar **dashboards estratégicos** e visuais  
-🤝 Colaborar com **equipes multidisciplinares**
 
 ---
 
