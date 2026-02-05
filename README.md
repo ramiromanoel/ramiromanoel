@@ -2,7 +2,7 @@
 
 **Data Analyst | DAX | SQL | Python**  
 
-Transformo dados em decisões estratégicas. Trabalho com todo o ciclo de dados, do **ETL à visualização**, criando soluções que conectam **técnica, negócio e estratégia**.  Sou movido por curiosidade, aprendizado contínuo e por gerar impacto real através da análise de dados.  
+Atuo com análise de dados, transformando dados em decisões estratégicas. Tenho experiência em SQL, modelagem de dados e Power BI, com evolução contínua em Python, machine learning e inteligência artificial.  
 
 ---
 
